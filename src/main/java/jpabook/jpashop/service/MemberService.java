@@ -16,10 +16,15 @@ public class MemberService {
     // 컴파일 시점에 체크할 수 있기 때문에 final 추가 (생성자에 세팅 안하면 에러 표시됨)
     private final MemberRepository memberRepository;
 
-    //    // 생성자 주입 (생성자가 하나만 있다면 알아서 주입 해줌)
-    //    public MemberService(MemberRepository memberRepository) {
-    //        this.memberRepository = memberRepository;
-    //    }
+    /* 필드 주입
+    @Autowired MemberRepository memberRepository;
+     */
+
+    /* 생성자 주입 (생성자가 하나만 있다면 생략 가능)
+    public MemberService(MemberRepository memberRepository) {
+        this.memberRepository = memberRepository;
+    }
+    */
 
     /**
      * 회원 가입
