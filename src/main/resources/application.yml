@@ -13,6 +13,11 @@ spring:
 #        show_sql: true     # sysout 으로 찍히므로, debug 권장(log)
         format_sql: true    # sql 쿼리를 보기 쉽게 포맷
 
+  spring:
+    thymeleaf:
+      prefix: classpath:/templates/
+      suffix: .html
+
 logging.level:
     org.hibernate.SQL: debug  # SQL 쿼리를 디버그 레벨로 로깅 (SQL log 출력)
     org.hibernate.orm.jdbc.bind: trace  # 바인딩된 파라미터를 트레이스 레벨로 로깅 (3.x)
