@@ -16,7 +16,7 @@ public class ItemService {
     private final ItemRepository itemRepository;
 
     @Transactional  // readOnly 안하도록
-    public void save(Item item) {
+    public void saveItem(Item item) {
         itemRepository.save(item);
     }
 
