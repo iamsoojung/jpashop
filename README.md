@@ -6,15 +6,16 @@
 
 ---
 
-## 강의 목차 및 블로그 정리 링크
+## 강의 목차 및 학습 내용 정리
 - [🔗 Series 바로가기](https://velog.io/@soojxng/series/실전-스프링-부트와-JPA-활용1)
 
 1. [🌱 프로젝트 환경 설정](https://velog.io/@soojxng/실전-스프링-부트와-JPA-활용1-1-프로젝트-환경설정)
 2. [🌱 도메인 분석 설계](https://velog.io/@soojxng/실전-스프링-부트와-JPA-활용1-2-도메인-분석-설계-3-애플리케이션-구현-준비)
-3. [🌱 회원 도메인 개발](https://velog.io/@soojxng/실전-스프링-부트와-JPA-활용1-3-회원-도메인-개발)
-4. [🌱 상품 도메인 개발](https://velog.io/@soojxng/실전-스프링-부트와-JPA-활용1-4-상품-도메인-개발)
-5. [🌱 주문 도메인 개발](https://velog.io/@soojxng/실전-스프링-부트와-JPA-활용1-5-주문-도메인-개발)
-6. [🌱 웹 계층 개발](https://velog.io/@soojxng/실전-스프링-부트와-JPA-활용1-6-웹-계층-개발)
+3. [🌱 애플리케이션 구현 준비](https://velog.io/@soojxng/실전-스프링-부트와-JPA-활용1-3-애플리케이션-구현-준비)
+4. [🌱 회원 도메인 개발](https://velog.io/@soojxng/실전-스프링-부트와-JPA-활용1-4-회원-도메인-개발)
+5. [🌱 상품 도메인 개발](https://velog.io/@soojxng/실전-스프링-부트와-JPA-활용1-5-상품-도메인-개발)
+6. [🌱 주문 도메인 개발](https://velog.io/@soojxng/실전-스프링-부트와-JPA-활용1-6-주문-도메인-개발)
+7. [🌱 웹 계층 개발](https://velog.io/@soojxng/실전-스프링-부트와-JPA-활용1-7-웹-계층-개발)
 
 ---
 
